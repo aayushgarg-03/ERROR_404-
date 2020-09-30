@@ -30,11 +30,6 @@ We want to ensure India doesn’t lags behind.
 - We are going to create a **responsive website** which will connect traders to farmers sitting in different cities to ensure that the farmer gets the best price possible. 
 - A **personalized app** where we’ll inform the farmers about latest farming techniques such as irrigation techniques, pest control, organic farming etc. And ways by which they can maximize their profit. 
 
-# PROBLEM REFERENCES 
-- [Suicides rates of farmers](https://en.wikipedia.org/wiki/Farmers_%27_suicides_in_India)
-- [Economy of country hitting](https://m.economictimes.com/news/economy/agriculture/farm-tales-low-pulses-production-falling-prices-continue-to-hurt-farmers/articleshow/67733117.cms)
-- [Farmers not getting a fare wage](https://www.thehindu.com/news/national/why-are-farmers-not-getting-a-fair-price/article24068937.ece)
-- [Worst price slum in 18 years](https://www.hindustantimes.com/india-news/worst-price-slump-in-18-years-shows-scale-of-farm-crisis/story-P2niBeuqAcaxgms3HmFCTK.html)
 
 
 
